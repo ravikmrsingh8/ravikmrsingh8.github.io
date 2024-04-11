@@ -10,7 +10,7 @@ export function LottiePlayer({src}: LottiePlayerProps) {
         <div className="z-n1 position-absolute" >
             <Player autoplay loop
                 src={src}
-                style={{height: "100vh", width:"100vw"}}
+                style={{height:"90vh"}}
             >
             </Player>
         </div>
