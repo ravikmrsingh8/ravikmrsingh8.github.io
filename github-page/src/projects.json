@@ -64,5 +64,11 @@
         "title": "Cryptography",
         "imageUrl": "/resources/images/crypto.jpg",
         "readMeUrl": "https://github.com/ravikmrsingh8/Cryptography"
+    },
+    {
+        "id": 11,
+        "title": "ML & AI",
+        "imageUrl": "/resources/images/mlai.png",
+        "readMeUrl": ""
     }
 ]
