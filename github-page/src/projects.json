@@ -52,5 +52,17 @@
         "title": "Redux",
         "imageUrl": "/resources/images/redux.webp",
         "readMeUrl": ""
+    },
+    {
+        "id": 9,
+        "title": "OAuth 2.0",
+        "imageUrl": "/resources/images/oauth.png",
+        "readMeUrl": "https://github.com/ravikmrsingh8/oauth-demo"
+    },
+    {
+        "id": 10,
+        "title": "Cryptography",
+        "imageUrl": "/resources/images/crypto.jpg",
+        "readMeUrl": "https://github.com/ravikmrsingh8/Cryptography"
     }
 ]
