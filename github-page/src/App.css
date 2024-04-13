@@ -9,3 +9,16 @@
 .nav-link.active {
     background-color: lightsteelblue;
 }
+
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.flex-item {
+    width: 12rem;
+    margin: 20px;
+}

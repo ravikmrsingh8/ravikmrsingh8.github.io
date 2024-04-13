@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "title": "Java",
+        "imageUrl": "/resources/images/java.png",
+        "readMeUrl": ""
+    },
+    {
+        "id": 1,
+        "title": "Data Structures",
+        "imageUrl": "/resources/images/ds.webp",
+        "readMeUrl": ""
+    },
+    {
+        "id": 2,
+        "title": "Leetcode",
+        "imageUrl": "/resources/images/leetcode.png",
+        "readMeUrl": ""
+    },
+    {
+        "id": 3,
+        "title": "Typescript",
+        "imageUrl": "/resources/images/typescript.png",
+        "readMeUrl": ""
+    },
+    {
+        "id": 4,
+        "title": "Spring",
+        "imageUrl": "/resources/images/spring.png",
+        "readMeUrl": ""
+    },
+    {
+        "id": 5,
+        "title": "Hibernate",
+        "imageUrl": "/resources/images/hibernate.png",
+        "readMeUrl": ""
+    },
+    {
+        "id": 6,
+        "title": "Apache kafka",
+        "imageUrl": "/resources/images/kafka.png",
+        "readMeUrl": ""
+    },
+    {
+        "id": 7,
+        "title": "React",
+        "imageUrl": "/resources/images/react.webp",
+        "readMeUrl": ""
+    },
+    {
+        "id": 8,
+        "title": "Redux",
+        "imageUrl": "/resources/images/redux.webp",
+        "readMeUrl": ""
+    }
+]

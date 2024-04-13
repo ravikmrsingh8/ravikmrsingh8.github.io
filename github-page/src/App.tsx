@@ -1,12 +1,15 @@
 import React from 'react';
 import './App.css';
 import ProjectGrid from './ProjectGrid';
+import { Header } from './header/Header';
 
 function App() {
   return (
-    <div style={{marginTop:"100px"}}>
+    <>
+        <Header/>
         <ProjectGrid/>
-    </div>
+    </>
+    
   );
 }
 
