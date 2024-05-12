@@ -9,7 +9,7 @@
         "id": 1,
         "title": "Data Structures",
         "imageUrl": "/resources/images/ds.webp",
-        "readMeUrl": ""
+        "readMeUrl": "https://github.com/ravikmrsingh8/coding-practice/tree/main/data-structures"
     },
     {
         "id": 2,
@@ -21,37 +21,37 @@
         "id": 3,
         "title": "Typescript",
         "imageUrl": "/resources/images/typescript.png",
-        "readMeUrl": ""
+        "readMeUrl": "https://github.com/ravikmrsingh8/coding-practice/tree/main/typescript"
     },
     {
         "id": 4,
         "title": "Spring",
         "imageUrl": "/resources/images/spring.png",
-        "readMeUrl": ""
+        "readMeUrl": "https://github.com/ravikmrsingh8/frameworks/tree/main/spring"
     },
     {
         "id": 5,
         "title": "Hibernate",
         "imageUrl": "/resources/images/hibernate.png",
-        "readMeUrl": ""
+        "readMeUrl": "https://github.com/ravikmrsingh8/frameworks/tree/main/hibernate"
     },
     {
         "id": 6,
         "title": "Apache kafka",
         "imageUrl": "/resources/images/kafka.png",
-        "readMeUrl": ""
+        "readMeUrl": "https://github.com/ravikmrsingh8/frameworks/tree/main/Kafka"
     },
     {
         "id": 7,
         "title": "React",
         "imageUrl": "/resources/images/react.webp",
-        "readMeUrl": ""
+        "readMeUrl": "https://github.com/ravikmrsingh8/frameworks/tree/main/react"
     },
     {
         "id": 8,
         "title": "Redux",
         "imageUrl": "/resources/images/redux.webp",
-        "readMeUrl": ""
+        "readMeUrl": "https://github.com/ravikmrsingh8/frameworks/tree/main/redux"
     },
     {
         "id": 9,
